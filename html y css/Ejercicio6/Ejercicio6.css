@@ -1,0 +1,16 @@
+* {
+	background-color: lightgreen;
+}
+p{
+	color: red;
+}
+.miparrafo {
+	color: darkblue;
+	font-family: cursive;
+}
+div {
+	color: white;
+}
+div p.miparrafo {
+	color: yellow;
+}
